@@ -5,4 +5,12 @@
   --secondary-text: #ffffff;
   --accent: #66606069;
   --accent-text: #000000;
+  --font-family: pixellari;
+}
+@font-face {
+  font-family: pixellari;
+  src: url(pixellari-webfont.woff);
+}
+*{
+  font-family: pixellari;
 }
